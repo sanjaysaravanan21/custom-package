@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "name": "@ssaravanan-atls/custom-package",
+  "packageManager": "yarn@4.4.1",
+  "description": "Sample Test package to execute & test the NPM Publish",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
+}
